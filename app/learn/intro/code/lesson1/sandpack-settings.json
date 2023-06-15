@@ -1,0 +1,9 @@
+{
+  "template": "static",
+  "files": {
+    "/index.html": "<!DOCTYPE html>\n<html>\n\n<head>\n  <title>Lesson 1</title>\n  <meta charset=\"UTF-8\" />\n  <link rel=\"stylesheet\" href=\"/styles.css\" />\n</head>\n\n<body>\n  <h1>Hello world</h1>\n</body>\n\n</html>"
+  },
+  "options" : {
+    "editorHeight": "75vh"
+  }
+}
