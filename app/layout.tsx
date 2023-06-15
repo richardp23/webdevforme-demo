@@ -1,11 +1,7 @@
 import "./globals.css";
-import "./bulma-custom-styles.css";
+import 'bulma/css/bulma.min.css';
 
 import NavigationBar from "@/components/navbar/NavigationBar";
-
-import { config } from "@fortawesome/fontawesome-svg-core";
-import "@fortawesome/fontawesome-svg-core/styles.css";
-config.autoAddCss = false;
 
 export const metadata = {
   title: "webdevfor.me",
